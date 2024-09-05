@@ -3,7 +3,7 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 
-public class Main {
+public class Exercise1 {
     public static void main(String[] args) {
         System.out.println(multiples(20));
         int[] test = {1,2,3,1};     
